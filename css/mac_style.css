@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+#mac_imagens{
+  position: relative;
+
+  margin: 0 auto;
+  padding: 2%;
+
+margin-top: 20px;
+
+
+}
+#mac_imagens img{ 
+  
+   width: 100%;
+   height: 100%;
+}
